@@ -1,0 +1,44 @@
+body {
+    background-color: #398CE8;
+}
+
+.container {
+    background-color: #48CCE8;
+    width: 960px;
+    border: 3px solid #000000;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    background-color: #C02942;
+    text-transform: uppercase;
+    display: flex;
+    4 4 1 2 justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: #ffffff;
+    text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+    font-family: 'Dancing Script', cursive;
+    /*font-family: 'Lato', sans-serif;*/
+}
+
+
+/*for main nav*/
+
+ul {
+    padding: .2em 0 10 0;
+    margin: 0 0 20 0;
+    list-style-type: none;
+    background-color: none;
+    width: auto;
+    font-size: 25px;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
